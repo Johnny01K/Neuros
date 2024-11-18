@@ -1,6 +1,6 @@
 # Neuros
 
-Project done using HTML and CSS.
+Practise project done using HTML and CSS.
 
 ### `Neuros` :point_right: [Live Demo](https://johnny01k.github.io/Neuros) :point_left: just do a CTRL+click (to open :link: in a new tab)
 
